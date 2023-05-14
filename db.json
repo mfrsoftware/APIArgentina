@@ -4,7 +4,7 @@
       "id":1,
       "nombre":"Cafayate",
       "zona":"no",
-      "imagen":"cafayate.jpg",
+      "imagen":"cafayate.png",
       "situacion":"Localidad de los valles Calchaquíes de la provincia de Salta.",
       "servicio":"Visita a las formaciones de roca caliza y viñedos",
       "precio":90
@@ -12,7 +12,7 @@
       "id":2,
       "nombre":"Parque Nacional Los Cardones",
       "zona":"no",
-      "imagen":"cachi.webp",
+      "imagen":"cachi.png",
       "situacion":"Cerca de la localidad de Payogasta (Selva de las Yungas).",
       "servicio":"Caminata por la desértica belleza del Parque Nacional",
       "precio":85
@@ -20,7 +20,7 @@
       "id":3,
       "nombre":"Viaducto La Polvorilla",
       "zona":"no",
-      "imagen":"polvorilla.jpg",
+      "imagen":"polvorilla.png",
       "situacion":"Recorrido en el Tren a las Nubes (desde Salta).",
       "servicio":"Recorrido por los viaductos del Tren a las Nubes del ramal C-14",
       "precio":124
@@ -28,7 +28,7 @@
       "id":4,
       "nombre":"Iruya",
       "zona":"no",
-      "imagen":"iruya.jpg",
+      "imagen":"iruya.png",
       "situacion":"Provincia de Salta (Sierra de Santa Victoria).",
       "servicio":"Recorrido por la zona (Mirador, Río, iglesias..)",
       "precio":78
@@ -36,7 +36,7 @@
       "id":5,
       "nombre":"Buenos Aires",
       "zona":"no",
-      "imagen":"buenosaires.jpg",
+      "imagen":"buenosaires.png",
       "situacion":"Ciudad autónoma y capital federal de Argentina.",
       "servicio":"Visita los barrios y plazas más representativos",
       "precio":195
@@ -44,7 +44,7 @@
       "id":6,
       "nombre":"Cataratas del Iguazú",
       "zona":"no",
-      "imagen":"iguazu.jpg",
+      "imagen":"iguazu.png",
       "situacion":"Entre las provincias de Misiones y Paraná.",
       "servicio":"Recorrido por los diferentes senderos (Macuco..)",
       "precio":172
@@ -52,7 +52,7 @@
       "id":7,
       "nombre":"San Nicolás de los Arroyos",
       "zona":"no",
-      "imagen":"san_nicolas_de_los_arroyos.jpg",
+      "imagen":"san_nicolas_de_los_arroyos.png",
       "situacion":"Extremo norte de la Provincia de Buenos Aires.",
       "servicio":"Escapada a Santuario, Teatro, Parque y Catedral",
       "precio":82
@@ -60,7 +60,7 @@
       "id":8,
       "nombre":"Rosario",
       "zona":"no",
-      "imagen":"rosario.webp",
+      "imagen":"rosario.png",
       "situacion":"Sureste de la Provincia de Santa Fé del Departamento de Rosario.",
       "servicio":"Recorrido por el Monumento, museos y parques",
       "precio":79
@@ -68,7 +68,7 @@
       "id":9,
       "nombre":"Córdoba",
       "zona":"cp",
-      "imagen":"cosquin.webp",
+      "imagen":"cosquin.png",
       "situacion":"Capital de la Provincia de Córdoba (a orillas del río Suquía).",
       "servicio":"Visita a Altas Cumbres, Capuchinos, 100 curvas y Museos",
       "precio":85
@@ -76,7 +76,7 @@
       "id":10,
       "nombre":"Mendoza",
       "zona":"cp",
-      "imagen":"mendoza.webp",
+      "imagen":"mendoza.png",
       "situacion":"Capital de la Provincia, al este de la Cordillera de los Andes.",
       "servicio":"Visita al Aconcagua, viñedos, bodegas y parques",
       "precio":71
@@ -84,7 +84,7 @@
       "id":11,
       "nombre":"La cumbrecita",
       "zona":"cp",
-      "imagen":"cumbrecita.webp",
+      "imagen":"cumbrecita.png",
       "situacion":"Valle de Calamuchita (Sierras Grandes, Provincia de Córdoba).",
       "servicio":"Visita a las cascadas, peñón y río subterráneo",
       "precio":83
@@ -92,7 +92,7 @@
       "id":12,
       "nombre":"Mar Chiquita Lake",
       "zona":"cp",
-      "imagen":"mar_chiquita_lake.jpg",
+      "imagen":"mar_chiquita_lake.png",
       "situacion":"Noroeste de la Provincia de Córdoba (Santiago del Estero).",
       "servicio":"Paseo en bote por la costonera, playa y el Mistolar",
       "precio":182
@@ -100,7 +100,7 @@
       "id":13,
       "nombre":"Puerto Madryn",
       "zona":"cp",
-      "imagen":"madryn.webp",
+      "imagen":"madryn.png",
       "situacion":"Noroeste de la Provincia de Chubut (Dpto. de Biedma).",
       "servicio":"Ver las ballenas y lobos marinos en Punta Loma",
       "precio":197
@@ -108,7 +108,7 @@
       "id":14,
       "nombre":"Parque Nal. Monte León",
       "zona":"cp",
-      "imagen":"monte_leon.webp",
+      "imagen":"monte_leon.png",
       "situacion":"Litoral marítimo de la Provincia de Santa Cruz (Patagonia).",
       "servicio":"Recorrido por los senderos y lagos del Parque",
       "precio":69
@@ -116,7 +116,7 @@
       "id":15,
       "nombre":"Rada Tilly",
       "zona":"cp",
-      "imagen":"rada_tilly.jpg",
+      "imagen":"rada_tilly.png",
       "situacion":"Provincia del Chubut (a 15 km. al sur de Comodoro Rivadavia).",
       "servicio":"Visita a la Reserva Natural y Museo Regional",
       "precio":112
@@ -124,7 +124,7 @@
       "id":16,
       "nombre":"Puerto Deseado",
       "zona":"cp",
-      "imagen":"puerto_deseado.jpg",
+      "imagen":"puerto_deseado.png",
       "situacion":"Provincia de Santa Cruz (al norte de la Ría Deseado).",
       "servicio":"Visita Isla Pinguinos, Reserva Natural y Gruta",
       "precio":163
